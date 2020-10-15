@@ -69,6 +69,8 @@ Shoutout to all the contributors! ([emoji key](https://allcontributors.org/docs/
    <td align="center"><a href="https://github.com/ayush015"><img src="https://avatars0.githubusercontent.com/u/36740639?s=460&u=f9189b60d5a8aa2c21e30771ee934be230b2e2a9&v=4" width="80px;" alt=""/><br /><sub><b>Ayush Srivastava</b></sub></a><br /><a href="https://github.com/MeghalBisht/Gamergram/issues/10" title="Code">💻</a></td>
    <td align="center"><a href="https://github.com/shubheshdwivedi"><img src="https://avatars1.githubusercontent.com/u/20144724?s=460&u=8f55eb3fc44541f7c6dce0928aa320140d5e9b77&v=4" width="80px;" alt=""/><br /><sub><b>Shubhesh Dwivedi
 </b></sub></a><br /><a href="https://github.com/MeghalBisht/Gamergram/pull/12" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/EnechukwuChibuike"><img src="https://avatars3.githubusercontent.com/u/60268843?s=460&u=497f7fcb5e3b4f4f9e36c83cda6e81e8500d114a&v=4" width="80px;" alt=""/><br /><sub><b>Enechukwu Chibuike
+</b></sub></a><br /><a href="https://github.com/MeghalBisht/Gamergram/pull/16" title="Code">💻</a></td>
   </tr>
 </table>
 
