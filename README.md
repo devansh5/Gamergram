@@ -4,7 +4,7 @@ A social media web application, used to add posts, like and comment on posts.
 Deletion of comments is also allowed
 Has an o-auth feature using which we can login through google.
 
-##Live at 
+## Live at 
 
 https://gamergram.herokuapp.com/
 
